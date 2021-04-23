@@ -32,7 +32,7 @@ See how it behaves in such services:
 ### Links
 
 - Solution URL: (No link yet)
-- Live Site URL: ![](https://emilyfelicio.github.io/Grid_Prices.github.io/Grid_Prices/)
+- Live Site URL: ![Live Site](https://emilyfelicio.github.io/Grid_Prices.github.io/Grid_Prices/)
 
 ## My process
 
